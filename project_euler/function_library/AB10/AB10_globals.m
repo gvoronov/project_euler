@@ -1,0 +1,1 @@
+global AB10_zero AB10_one AB10_two;
